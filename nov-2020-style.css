@@ -1,0 +1,22 @@
+html, body, h1, p, div {
+	padding: 0;
+	margin: 0;
+	/* line-height: 1rem; */
+}
+
+body {
+	background-color: gainsboro;
+	font-family: arial narrow;
+	text-align: center;
+}
+.basics {
+	font-size: 5vh;
+	color: Black;
+}
+.connect{
+	font-size: 4vh;
+}
+a:link { color: red; }
+a:visited { color: red; }
+a:hover { color: red; background-color: silver; }
+a:active { color: white; }
